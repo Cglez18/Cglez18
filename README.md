@@ -13,7 +13,7 @@
 
 📚 I'm studying at UPIICSA-IPN in Mexico City
 
-🧠 Member if Binary Brains UPIICSA
+🧠 Member of Binary Brains UPIICSA
 
 🌎 I am really interested in different cultures and traditions from around the world.
 
