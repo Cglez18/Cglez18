@@ -1,11 +1,13 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&random=false&width=600&height=80&lines=Hi%2C+everyone+%F0%9F%91%8B;I'm+C%C3%A9sar+Gonz%C3%A1lez+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&random=false&width=800&height=100&lines=Hi%2C+everyone+%F0%9F%91%8B;I'm+C%C3%A9sar+Gonz%C3%A1lez+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+    </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## César González - Computer Engineering student
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="280">
 
 💻 I love programming and learning new things
 
@@ -16,6 +18,7 @@
 🌎 I am really interested in different cultures and traditions from around the world.
 
 🐈 I am always looking to have new friends with whom to share our experiences.
+<br>
 
 
 ## Technical skills
