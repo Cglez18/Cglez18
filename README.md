@@ -4,7 +4,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## César González - Computer Engineering student
+## César González - Computer Engineering Student
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="280">
@@ -67,6 +67,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cglez18&langs_count=4&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gomen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cglez18&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![César's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cglez18&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
