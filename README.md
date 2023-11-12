@@ -27,7 +27,7 @@
     <div align="center">
     <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,python,mysql" />
   </a>
     </div>
         <div align="center">
